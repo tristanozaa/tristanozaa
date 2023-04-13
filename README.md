@@ -2,7 +2,7 @@
 # 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tristanozaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tristanozaa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tristanozaa) 
 # 💫About Me:
-I am a highschool student who is passionate about learning front end development. I have been studying HTML, CSS and JavaScript online and building my own websites and projects. I enjoy creating user-friendly and responsive web pages that showcase my creativity and skills. I am always eager to learn new technologies and frameworks that can enhance my web development journey.<br> 
+Hello, I'm a highschool student who is currently studying front end development. I enjoy creating websites and web applications using HTML, CSS, and JavaScript. I'm also interested in artificial intelligence, ethical hacking, and other computer science related subjects. I'm always eager to learn new skills and technologies that can help me solve problems and create innovative solutions.<br> 
 # 🎓Education:
 SMA Negeri 8 Semarang (2022-Present)
 # 💻Tech Stack:
