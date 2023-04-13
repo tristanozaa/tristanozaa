@@ -1,6 +1,6 @@
 ![Header image](https://raw.githubusercontent.com/tristanozaa/tristanozaa/main/assets/banner.png)
 # 🌐Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tristanozaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tristanozaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tristanozaa)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tristanozaa) 
 # 💫About Me:
 Hello, I'm a highschool student who is currently studying front end development. I enjoy creating websites and web applications using HTML, CSS, and JavaScript. I'm also interested in artificial intelligence, ethical hacking, and other computer science related subjects. I'm always eager to learn new skills and technologies that can help me solve problems and create innovative solutions.<br> 
 # 🎓Education:
