@@ -1,6 +1,6 @@
 # Arkano Aqilla Tristanoza
 
-![Header image](https://raw.githubusercontent.com/tristanozaa/tristanozaa/main/assets/banner.jpg)
+![Header image](https://raw.githubusercontent.com/tristanozaa/tristanozaa/main/assets/banner.png)
 
 ## 💻 Tech Stack
 
